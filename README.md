@@ -8,5 +8,5 @@ Gif demonstrating site navigation.
 
 Gif demonstrating site querying. 
 
-<a href="https://giphy.com/gifs/9dcVirxPi20VERUIoF/html5"><img src="https://giphy.com/gifs/9dcVirxPi20VERUIoF/html5" title="Site Querying Demo"/></a>
+<a href="https://media.giphy.com/media/9dcVirxPi20VERUIoF/giphy.gif"><img src="https://media.giphy.com/media/9dcVirxPi20VERUIoF/giphy.gif" title="Site Querying Demo"/></a>
 
